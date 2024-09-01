@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @abhinav5568
 - 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning JavaScript...
+- 🌱 I’m currently learning JavaScript/ Data Structures...
+- :electron:
+- 
 
 <!---
 abhinav5568/abhinav5568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
