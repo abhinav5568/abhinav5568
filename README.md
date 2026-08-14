@@ -29,5 +29,5 @@ I'm an Electronics and Communication Engineering undergraduate exploring softwar
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/abhinav]([https://linkedin.com](https://www.linkedin.com/in/abhinav-~-87aa782b4/))
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abhinav-~-87aa782b4/)
 - 📧 **Email:** [abhinav.ec27@gmail.com](mailto:abhinav.ec27@gmail.com)
